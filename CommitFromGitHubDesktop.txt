@@ -1,0 +1,8 @@
+function calculateRectangleArea(length, width) {
+    return area = width * length;
+}
+var length = 10;
+var width = 5;
+var area = calculateRectangleArea (length, width)
+console.log("The area of the rectangle is: " + area + " sq.cm.")
+
